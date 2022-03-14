@@ -6,6 +6,7 @@ I **DO NOT** own Mizt Hub and this script is just fan-made, if someone at Mizt H
 ## UPDATES
 
 **Update V7.1**
+
 Fixed bugs
 Undetectable (coregui I forgot to do it before)
 Internal executor (only runs what your executor supports)
